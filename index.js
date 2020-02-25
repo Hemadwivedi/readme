@@ -59,7 +59,7 @@ function transformTemplateObject(answers,user){
     return {
         projectTitle: answers.title,
         description: answers.description,
-        installation: answers.installation,
+        installation: answers.install,
         usage: answers.usage,
         license: answers.license,
         contribute: answers.contribute,
