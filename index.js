@@ -91,16 +91,3 @@ function init() {
 }
 
 init();
-
-/*
- var answers = {
-                title : "Reademe Generator ..",
-                description: "Bla bla ..",
-                installation : "Nopes ...",
-                usage: "Nopess Us",
-                license: "Hooooooooo hhaaa",
-                contribute : "No one m alone ",
-                username : "hemaDwivedi"
-
-            }
-*/
