@@ -1,10 +1,9 @@
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/hemadwivedi/readme)
-# <%= projectTitle; %> 
+## <%= projectTitle; %> 
 
 <%= description;  %>
 
 # Tables of Contents
-- [<%= projectTitle; %>](#projecttitle)
 - [Tables of Contents](#tables-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
