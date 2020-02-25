@@ -1,7 +1,7 @@
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/hemadwivedi/readme)
-## Reademe Generator 
+## Reademe generator 
 
-node app to generate the readem me files
+a node app to create a reade me files
 
 # Tables of Contents
 - [Tables of Contents](#tables-of-contents)
@@ -26,7 +26,7 @@ no
 # Contributing
 no 
 # Tests
-no test
+no 
 # Questions
 ![Profile Avatar](https://avatars0.githubusercontent.com/u/55676787?v=4)
 
