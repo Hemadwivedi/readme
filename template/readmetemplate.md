@@ -15,9 +15,13 @@
 - [Credits](#credits)
 
 # Installation
-<%= installation; %>
+```
+ <%= installation; %>
+```
 # Usage
-<%= usage; %>
+```
+ <%= usage; %>
+```
 # License
 <%= license; %>
 # Contributing
