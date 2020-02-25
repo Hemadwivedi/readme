@@ -72,7 +72,6 @@ function transformTemplateObject(answers,user){
 }
 
 function init() {
-
     inquirer.prompt(questions)
         .then(answers => {
             const userData = api.getUser(answers.username);
@@ -83,7 +82,6 @@ function init() {
         .then(data => {
             return markdownGenerator(data);
         }).then(redertemplate => {
-            console.log(redertemplate)
             return writeToFile("README.md", redertemplate);
         })
         .catch(error => {
