@@ -3,8 +3,7 @@
 
 <%= description;  %>
 
-# Tables of Contents
-- [Tables of Contents](#tables-of-contents)
+## Tables of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
