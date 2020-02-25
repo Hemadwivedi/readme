@@ -67,7 +67,7 @@ function transformTemplateObject(answers,user){
         avatarUrl: user.avatar_url,
         email: user.email,
         username: answers.username,
-        githubUrl: user.repos_url
+        githubUrl: user.html_url
     }
 }
 
