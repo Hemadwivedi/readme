@@ -1,10 +1,9 @@
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/hemadwivedi/readme)
-## Reademe generator 
+## Readme Generator 
 
-a node app to create a reademe files
+Node app that generate beautiful Readme.md files, based on the answers given by the user input.
 
-# Tables of Contents
-- [Tables of Contents](#tables-of-contents)
+## Tables of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -22,11 +21,11 @@ a node app to create a reademe files
  node index.js
 ```
 # License
-no
+No licenses for this project.
 # Contributing
-no
+No other contributor involve for this project.
 # Tests
-np
+Ran node index.js to ensure Readme file is generated.
 # Questions
 ![Profile Avatar](https://avatars0.githubusercontent.com/u/55676787?v=4)
 
