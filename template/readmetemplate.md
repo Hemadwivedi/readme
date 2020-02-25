@@ -6,6 +6,7 @@
 ## Tables of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#demo)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
@@ -20,6 +21,9 @@
 ```
  <%= usage; %>
 ```
+# Demo
+![Demo](../img/demo.gif)
+
 # License
 <%= license; %>
 # Contributing

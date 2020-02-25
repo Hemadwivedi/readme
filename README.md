@@ -6,6 +6,7 @@ Node app that generate beautiful Readme.md files, based on the answers given by 
 ## Tables of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#demo)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
@@ -20,8 +21,11 @@ Node app that generate beautiful Readme.md files, based on the answers given by 
 ```
  node index.js
 ```
+# Demo
+![Demo](../img/demo.gif)
+
 # License
-No licenses for this project.
+No other contributor involve for this project.
 # Contributing
 No other contributor involve for this project.
 # Tests
