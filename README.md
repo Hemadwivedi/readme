@@ -22,7 +22,7 @@ Node app that generate beautiful Readme.md files, based on the answers given by 
  node index.js
 ```
 # Demo
-<img style='width: 600px' src="../img/demo.gif"></img>
+![Demo](https://raw.githubusercontent.com/Hemadwivedi/readme/master/img/demo.gif)
 
 # License
 No lincenses for this project
