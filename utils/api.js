@@ -7,10 +7,9 @@ const api = {
     return axios({
         url: `https://api.github.com/users/${username}`,
         method: "GET",
-        auth: {
-          username: process.env.CLIENT_ID,
-          password: process.env.CLIENT_PASS
-        }
+        headers:{
+          'Authorization': `token ${process.env.API_TOKEN}`
+        },
       })
       .then((response) => {
         return response.data;

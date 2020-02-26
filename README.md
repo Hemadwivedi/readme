@@ -25,7 +25,7 @@ Node app that generate beautiful Readme.md files, based on the answers given by 
 ![Demo](https://raw.githubusercontent.com/Hemadwivedi/readme/master/img/demo.gif)
 
 # License
-No lincenses for this project
+No licenses for this project.
 # Contributing
 No other contributor involve for this project.
 # Tests
