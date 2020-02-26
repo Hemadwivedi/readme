@@ -22,7 +22,7 @@
  <%= usage; %>
 ```
 # Demo
-<img style='width: 600px' src="../img/demo.gif"></img>
+![Demo](https://raw.githubusercontent.com/Hemadwivedi/readme/master/img/demo.gif)
 
 # License
 <%= license; %>
