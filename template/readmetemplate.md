@@ -22,7 +22,7 @@
  <%= usage; %>
 ```
 # Demo
-![Demo](../img/demo.gif)
+<img style='width: 600px' src="../img/demo.gif"></img>
 
 # License
 <%= license; %>

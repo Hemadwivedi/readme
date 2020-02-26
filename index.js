@@ -82,6 +82,7 @@ function init() {
         .then(data => {
             return markdownGenerator(data);
         }).then(redertemplate => {
+            console.log(`Generated Template => ${redertemplate}`);
             return writeToFile("README.md", redertemplate);
         })
         .catch(error => {

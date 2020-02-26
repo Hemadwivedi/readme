@@ -22,10 +22,10 @@ Node app that generate beautiful Readme.md files, based on the answers given by 
  node index.js
 ```
 # Demo
-![Demo](../img/demo.gif)
+<img style='width: 600px' src="../img/demo.gif"></img>
 
 # License
-No other contributor involve for this project.
+No lincenses for this project
 # Contributing
 No other contributor involve for this project.
 # Tests
@@ -36,5 +36,5 @@ Ran node index.js to ensure Readme file is generated.
 If you have any questions, please e-mail me at .
 
 # Credits
-Github: [hemadwivedi](https://github.com/Hemadwivedi)
-Copyright hemadwivedi. All Rights Reserved.
+Github: [hemaDwivedi](https://github.com/Hemadwivedi)
+Copyright hemaDwivedi. All Rights Reserved.
